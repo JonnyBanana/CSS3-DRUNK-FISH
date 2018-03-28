@@ -1,4 +1,14 @@
-to make this animation I took inspiration from this project:
+A simply animation in css3 e html.
+
+</br>
+
+DRINK FISH, DRINK!
+
+Have you ever wondered how a fish would swim if it was drunk?
+Well no need to ask, you can just watch it now!
+
+
+To make this animation I took inspiration from this project:
 </br>
 https://codepen.io/kieranfivestars/pen/epaGpz?limit=all&page=4&q=FISH
 
