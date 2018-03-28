@@ -1,6 +1,5 @@
 A simply animation in css3 e html.
 
-</br>
 
 DRINK FISH, DRINK!
 
