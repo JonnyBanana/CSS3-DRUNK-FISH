@@ -1,4 +1,5 @@
-to make this animation I took inspiration (forked) from this project:
+to make this animation I took inspiration from this project:
+</br>
 https://codepen.io/kieranfivestars/pen/epaGpz?limit=all&page=4&q=FISH
 
 
