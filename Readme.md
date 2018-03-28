@@ -1,4 +1,4 @@
-A simply animation in css3 e html5.
+A simply animation in css3 and html5.
 
 
 DRINK FISH, DRINK!
