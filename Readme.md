@@ -1,3 +1,9 @@
+to make this animation I took inspiration (forked) from this project:
+https://codepen.io/kieranfivestars/pen/epaGpz?limit=all&page=4&q=FISH
+
+
+
+
 
 STOP TO DRINK, FUCKIN' FISH....
 
