@@ -36,7 +36,7 @@ demo here: https://codepen.io/JonnyBanana/pen/RQQaeg
 
 </br>
 
-<h2>UPDATING</h2>
+<h4>UPDATING</h4>
 The sound don't work on chrome and opera 
 
 </br>
