@@ -33,3 +33,11 @@ useless but fun!
 </br>
 
 demo here: https://codepen.io/JonnyBanana/pen/RQQaeg
+
+</br>
+
+<H1>UPDATING</H1>
+The sound don't work on chrome and opera 
+
+</br>
+(unfortunately, the autoplay function has been blocked by the two browsers)
